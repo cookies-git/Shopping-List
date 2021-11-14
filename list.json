@@ -1,0 +1,91 @@
+{
+"list":[
+  {
+    "sNo": "1",
+    "itemNam": "Rice",
+    "qnty": "8",
+    "unit": "kg",
+    "dept": "grocery",
+    "note": "Sulekha, Basumati"
+  },
+  {
+    "sNo": "2",
+    "itemNam": "Chips",
+    "qnty": "10",
+    "unit": "Packets",
+    "dept": "grocery",
+    "note": "Lays, Bingo"
+  },
+  {
+    "sNo": "3",
+    "itemNam": "Sunflower Oil",
+    "qnty": "3",
+    "unit": "Litre",
+    "dept": "grocery",
+    "note": "Nutrela, Sundrop"
+  },
+  {
+    "sNo": "4",
+    "itemNam": "Onion",
+    "qnty": "10",
+    "unit": "kg",
+    "dept": "grocery",
+    "note": "Big"
+  },
+  {
+    "sNo": "5",
+    "itemNam": "Paneer",
+    "qnty": "500",
+    "unit": "g",
+    "dept": "Dairy",
+    "note": "Milkymist, Amul"
+  },
+  {
+    "sNo": "6",
+    "itemNam": "Mushrooms",
+    "qnty": "500",
+    "unit": "g",
+    "dept": "grocery",
+    "note": "Small/Medium"
+  },
+  {
+    "sNo": "7",
+    "itemNam": "Soap",
+    "qnty": "10",
+    "unit": "Piece",
+    "dept": "grocery",
+    "note": "Dove"
+  },
+  {
+    "sNo": "8",
+    "itemNam": "Chilli Powder",
+    "qnty": "3",
+    "unit": "kg",
+    "dept": "grocery",
+    "note": "Anybrand"
+  },
+  {
+    "sNo": "9",
+    "itemNam": "Coriander Powder",
+    "qnty": "3",
+    "unit": "kg",
+    "dept": "grocery",
+    "note": "Anybrand"
+  },
+  {
+    "sNo": "10",
+    "itemNam": "Noodles",
+    "qnty": "10",
+    "unit": "Piece",
+    "dept": "grocery",
+    "note": "Anytime, Ching's"
+  },
+  {
+    "sNo": "11",
+    "itemNam": "Potato",
+    "qnty": "8",
+    "unit": "kg",
+    "dept": "grocery",
+    "note": "Big"
+  }
+]}

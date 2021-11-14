@@ -1,0 +1,17 @@
+body {
+  background-color: #c3f1f6 !important;
+}
+
+.h2shop {
+  text-align: center;
+  color: #555e55;
+  margin: 10px;
+  padding: 15px;
+  font-size: xx-large;
+}
+
+hr.dropdown-divider {
+  color: #555e55 !important;
+  height: 2px !important;
+  opacity: 1 !important;
+}
